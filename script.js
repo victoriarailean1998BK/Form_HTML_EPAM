@@ -4,11 +4,6 @@ const email = document.getElementById('email');
 const password = document.getElementById('password');
 const password2 = document.getElementById('Password check');
 
-//
-
-
-//
-
 from.addEventListener('submit', (e) => {
     e.preventDefault();
 
