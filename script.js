@@ -68,8 +68,7 @@ function setErrorFor(message){
     return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
   }
   
-  emailIsValid('tyler@tyler@ui.dev') // false
-  emailIsValid('tyler@ui.dev') // true
+ 
  
 
  
